@@ -1,0 +1,12 @@
+numpy==1.21
+matplotlib~=3.5.1
+scipy~=1.8.0
+pandas~=1.4.2
+lifelines~=0.27.0
+torch~=1.11.0
+scikit-learn~=1.0.2
+pycox~=0.2.3
+torchtuples~=0.2.2
+scanpy~=1.9.1
+sklearn~=0.0
+pysurvival~=0.1.2
